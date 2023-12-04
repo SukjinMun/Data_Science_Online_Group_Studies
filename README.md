@@ -2,10 +2,10 @@
 Collection of resources used for online group studies for data science
 
 
-Web Crawling
+## 1. Web Crawling
 
 
-Data Analysis
+## 2. Data Analysis
 
 
-Machine Learning
+## 3. Machine Learning
