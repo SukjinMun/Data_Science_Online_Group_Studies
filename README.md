@@ -5,7 +5,7 @@ In this repository, I delve into three key areas of expertise. Firstly, I explor
 Web crawling is the automated process by which a computer program, known as a crawler or spider, systematically browses the internet to index and collect information from web pages. These crawlers navigate through websites, following hyperlinks to gather data, such as content, URLs, metadata, and more. Search engines like Google use web crawling to index web pages, enabling users to find relevant information through search queries.
 
 ## 2. Data Analysis
-![Uploading iamge.png…]()
+![iamge](https://github.com/roysjmun0317/Data_Science_Online_Group_Studies/assets/78396618/5de15aa2-af31-4f42-a488-d10c9e6b18a6)
 Structured procedures and methodologies are essential in data analysis, comprising processes, methods, tools, techniques, templates, and outcomes for easy application. Various methodologies exist, including traditional ones like KDD and CRISP-DM (Cross-Industry Standard Process for Data Mining). CRISP-DM is a widely used data mining methodology that establishes standard procedures for extracting meaning from data across industries.
 
 CRISP-DM Steps:
