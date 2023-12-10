@@ -1,6 +1,5 @@
 # Data_Science_Online_Group_Studies
-Collection of resources used for online group studies for data science
-
+In this repository, I delve into three key areas of expertise. Firstly, I explore the realm of web crawling, showcasing automated processes employing crawlers and spiders to systematically collect data from web pages for indexing and analysis. Secondly, I delve into comprehensive data analysis methodologies, specifically focusing on CRISP-DM steps, encompassing business understanding, data preparation, machine learning, and regression modeling, notably applied to insightful analyses of bike-sharing datasets. Lastly, I concentrate on machine learning, emphasizing alignment with business goals, mastery of Explainable AI, and utilization of diverse datasets such as Smart Factory sensor data and bike-sharing usage statistics to optimize resource allocation in bike rental businesses.
 
 ## 1. Web Crawling
 Web crawling is the automated process by which a computer program, known as a crawler or spider, systematically browses the internet to index and collect information from web pages. These crawlers navigate through websites, following hyperlinks to gather data, such as content, URLs, metadata, and more. Search engines like Google use web crawling to index web pages, enabling users to find relevant information through search queries.
